@@ -1,2 +1,5 @@
-# Data-science-OPI
-Examen OPI data science donde se analizaran mediante libretas de jupyter notenook y google colab datos abiertos de la CDMX...
+# Data-science
+
+Data sciences using CDMX open data...
+
+It is just for fun 
